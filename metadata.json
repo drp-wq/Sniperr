@@ -1,0 +1,6 @@
+{
+  "name": "SolRelay Sniper OS",
+  "description": "Ultra-premium Telegram Mini App for Solana High-Frequency Token Sniping, Safety Gate Inspection, and Portfolio PnL HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
